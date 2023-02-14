@@ -1,0 +1,11 @@
+C:\Users\Omar\source\repos\colision\bin\Debug\colision.exe.config
+C:\Users\Omar\source\repos\colision\bin\Debug\colision.exe
+C:\Users\Omar\source\repos\colision\bin\Debug\colision.pdb
+C:\Users\Omar\source\repos\colision\obj\Debug\colision.csproj.AssemblyReference.cache
+C:\Users\Omar\source\repos\colision\obj\Debug\colision.csproj.SuggestedBindingRedirects.cache
+C:\Users\Omar\source\repos\colision\obj\Debug\colision.Form1.resources
+C:\Users\Omar\source\repos\colision\obj\Debug\colision.Properties.Resources.resources
+C:\Users\Omar\source\repos\colision\obj\Debug\colision.csproj.GenerateResource.cache
+C:\Users\Omar\source\repos\colision\obj\Debug\colision.csproj.CoreCompileInputs.cache
+C:\Users\Omar\source\repos\colision\obj\Debug\colision.exe
+C:\Users\Omar\source\repos\colision\obj\Debug\colision.pdb
